@@ -6,3 +6,5 @@ Metasploit and Meterpreter --> https://docs.metasploit.com/docs/development/get-
 
 Dirbuster --> enumerate hidden pages and do some brute force password cracking
           --> https://www.kali.org/tools/dirbuster/
+
+Ansible -> Infrastructure as Code : https://www.redhat.com/en/ansible-collaborative?intcmp=7015Y000003t7aWQAQ
